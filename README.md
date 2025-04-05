@@ -10,6 +10,7 @@ Building Reliable and Scalable Software- Ensures that software can handle large 
 Security and Data Protection- Implements best practices to protect sensitive user information. 
 Innovation and Technological Advancements- Powers emerging technologies like artificial intelligence, cloud computing, and blockchain.
 
+---
 
 Identify and describe at least three key milestones in the evolution of software engineering.
      1. The Birth of Programming (1940s - 1950s)
@@ -29,6 +30,7 @@ Impact: Agile methods, such as Scrum and DevOps, allow developers to quickly ada
 
 
 
+---
 
 List and briefly explain the phases of the Software Development Life Cycle.
   1. Requirements Analysis – Understanding user needs and defining system specifications.
@@ -38,10 +40,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
   5. Deployment – Releasing software for users.
   6. Maintenance – Updating and improving software over time.
 
+---
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall is a step-by-step approach(a linear process), where each phase must be completed before moving to the next, hence changes are difficult to make once a phase is completed - Works best for projects with clear and fixed requirements, whiles Agile is a flexible approach(iterative process) that allows teams to build software in small, fast cycles, hence encourages continuous feedback and changes - Works best for projects where requirements may change.
 
+---
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -61,12 +65,14 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
           Communicate with clients and stakeholders.
           Solve problems and keep the team on track.
 
+---
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An IDE is a software tool that helps developers write, edit, and test code in one place. Examples of IDEs: Visual Studio Code (VS Code), PyCharm
 A VCS helps developers track changes in their code, work with teammates, and keep a backup of previous versions. Examples of VCS: Git, GitHub 
 
+---
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Debugging Code
@@ -84,6 +90,7 @@ Solution: Use task management tools like Trello or Jira.
           Prioritize tasks using the 80/20 rule (focus on the most important 20% of work that gives 80% results).
 
 
+---
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -119,6 +126,7 @@ Why it’s important:
   Helps clients and stakeholders approve the final product.
 
 
+---
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -130,6 +138,8 @@ Prompt engineering is important in interacting with AI models in the following;
     Get accurate and relevant answers – A clear prompt leads to a clear response.
     Improve efficiency – Saves time by reducing back-and-forth clarifications.
     Guide AI behavior – Helps AI understand the desired format, tone, or detail level.
+
+---
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
@@ -159,6 +169,7 @@ Version control maintains project integrity by:
 - Allowing rollback to previous versions if something breaks.  
 - Enabling collaboration without conflicts.  
 
+---
 
 2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
 Steps to create a new repository: 
@@ -170,11 +181,12 @@ Steps to create a new repository:
 6. Select a license (e.g., MIT, Apache) if needed.  
 Key decisions:  
 - Visibility: Public (open-source) vs. Private (team-only).  
-- Initial files: Whether to include a README, `.gitignore`, or license upfront.  
+- Initial files: Whether to include a README, `.gitignore`, or license upfront.
 
+ ---
+ 
 3. Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?  
 A README file explains what the project does, how to use it, and how to contribute.  
-
 A good README includes:  
 - Project name and description.  
 - Installation instructions.  
@@ -211,6 +223,7 @@ Advantages of Private:
 Disadvantages of Private:
 - Limited free collaborators.  
 
+---
 
 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?  
 Steps to make a commit:  
@@ -224,6 +237,7 @@ What is a commit?
 - A snapshot of changes at a point in time.  
 - Helps track progress, revert mistakes, and collaborate efficiently.  
 
+---
 
 6. How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.  
 Branching allows working on separate features without affecting the main code.  
@@ -239,6 +253,7 @@ Why it’s important:
 - Prevents conflicts in the main code.  
 - Enables parallel development.  
 
+---
 
 7. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 Pull Request (PR): A request to merge changes from one branch to another.  
@@ -254,6 +269,7 @@ Why it’s useful:
 - Ensures code quality through reviews.  
 - Encourages discussion before merging.  
 
+---
 
 8. Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?**  
 - Forking: Creates a copy of someone else’s repo under your GitHub account.  
@@ -277,6 +293,7 @@ Why it helps:
 - Keeps work organized.  
 - Improves transparency.  
 
+---
 
 10. Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?  
 Common Challenges: 
